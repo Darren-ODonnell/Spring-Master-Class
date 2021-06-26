@@ -1,0 +1,12 @@
+-- CREATE TABLE Person (
+--     ID int NOT NULL,
+--     Name varchar(255),
+--     Location varchar(255),
+--     Birth_date datetime,
+--     PRIMARY KEY (ID)
+-- );
+--
+-- INSERT INTO Person (ID, Name, Location, Birth_date)
+-- VALUES (1, 'Jack', 'Dublin', sysdate());
+-- INSERT INTO Person (ID, Name, Location, Birth_date)
+-- VALUES (2, 'John', 'Leeds', sysdate());
